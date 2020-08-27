@@ -2,6 +2,7 @@
 
 This is a set of tools to manipulate generic XML templates which describe MIDI v1 devices.
 The templates can be used to generate proprietary configuration files for use with DAWs and MIDI controllers.
+The templates will be stored in a separate repo.
 
 The standard DTD is this :- https://www.midi.org/dtds/MIDIDeviceTypes10.dtd.html
 
